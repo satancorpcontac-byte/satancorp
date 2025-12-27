@@ -1,0 +1,135 @@
+/*----root----*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+::selection {
+    color: #ffffff;
+    background: #ff0000;
+}
+
+.pointer{
+    cursor: pointer;
+}
+
+.w-100{
+    width: 100%;
+}
+
+.h-100{
+    height: 100%;
+}
+
+.contain{
+    object-fit: contain;
+}
+
+.cover{
+    object-fit: cover;
+}
+
+.relative{
+    position: relative;
+}
+
+.absolute{
+    position: absolute;
+}
+
+.grid{
+    display: grid;
+}
+
+.flex{
+    display: flex;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+.t-c{
+    text-align: center;
+}
+
+.a-c{
+    align-items: center;
+}  
+
+.baseline{
+    align-items: baseline;
+}
+
+.j-c{
+    justify-content: center;
+}
+
+.capitalize{
+    text-transform: capitalize;
+}
+ 
+.uppercase{
+    text-transform: uppercase;
+}
+
+.hidden{
+    overflow: hidden;
+}
+
+.letra-400{
+    font-family: letra-400;
+}
+
+.letra-500{
+    font-family: letra-500;
+}
+
+.letra-600{
+    font-family: letra-600;
+}
+
+.letra-dec{
+    font-family: letra-dec;
+}
+
+.color-blanco{
+    color: #fff;
+}
+
+.color-rojo{
+    color: #f51c20;
+}
+
+.color-negro{
+    color: #000;
+}
+
+.fill-rojo{
+    fill: #ff151d;
+}
+
+.fill-blanco{
+    fill: #fff;
+}
+
+.fill-negro{
+    fill: #000;
+}
+
+.bg-negro{
+    background: #000;
+}

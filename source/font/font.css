@@ -1,0 +1,19 @@
+@font-face {
+    font-family: letra-400;
+    src: url(letra-400.otf);
+}
+
+@font-face {
+    font-family: letra-500;
+    src: url(letra-500.otf);
+}
+
+@font-face {
+    font-family: letra-600;
+    src: url(letra-600.otf);
+}
+
+@font-face {
+    font-family: letra-dec;
+    src: url(decoracion.ttf);
+}
